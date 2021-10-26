@@ -1,4 +1,4 @@
-# PRIVACY POLICY FOR VILNIAUS KONTEKSTAI APP
+# PRIVACY POLICY
 
 This privacy policy governs your use of the software application Vilniaus Kontekstai for mobile devices that was created by MeritStory.
  
